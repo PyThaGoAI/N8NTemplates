@@ -33,3 +33,20 @@ Pick an industry.
 Copy a workflow.
 Hit "Run."
 Start printing results. 💸
+
+
+🤝 Let’s Build the Future
+We’re here to learn, grow, and create with those who believe in a smarter, more connected world.
+
+Together, let’s build the future — one template at a time. ✨
+
+🌐 Find Me Online
+🧠 GitHub: PyThaGoAI
+🔗 LinkedIn: Sas Cristian
+🤖 Hugging Face: PyThaGo
+🚀 Product Hunt: @sas_cristian
+🛠️ Codester: TeamPresta
+🎁 Gumroad: iunoub Toolkit
+☕ Buy Me a Coffee: sascristiav
+💬 Discord: Join Community
+👕 Merch Store: VibeMerch
