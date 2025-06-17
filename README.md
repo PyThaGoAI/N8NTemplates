@@ -34,19 +34,32 @@ Copy a workflow.
 Hit "Run."
 Start printing results. 💸
 
+## 🤝 Let’s Build the Future
 
-🤝 Let’s Build the Future
-We’re here to learn, grow, and create with those who believe in a smarter, more connected world.
+We’re here to **learn**, **grow**, and **create** with those who believe in a smarter, more connected world.
 
 Together, let’s build the future — one template at a time. ✨
 
-🌐 Find Me Online
-🧠 GitHub: PyThaGoAI
-🔗 LinkedIn: Sas Cristian
-🤖 Hugging Face: PyThaGo
-🚀 Product Hunt: @sas_cristian
-🛠️ Codester: TeamPresta
-🎁 Gumroad: iunoub Toolkit
-☕ Buy Me a Coffee: sascristiav
-💬 Discord: Join Community
-👕 Merch Store: VibeMerch
+
+## 🌐 Find Me Online
+
+- 🧠 **GitHub**: [PyThaGoAI](https://github.com/PyThaGoAI)
+- 🔗 **LinkedIn**: [Sas Cristian](https://www.linkedin.com/in/sascristian)
+- 🤖 **Hugging Face**: [PyThaGo](https://huggingface.co/PyThaGo)
+- 🚀 **Product Hunt**: [@sas_cristian](https://www.producthunt.com/@sas_cristian)
+- 🛠️ **Codester**: [TeamPresta](https://www.codester.com/TEAMPRESTA)
+- 🎁 **Gumroad**: [iunoub Toolkit](https://sascristian.gumroad.com/l/iunoub)
+- ☕ **Buy Me a Coffee**: [sascristiav](https://buymeacoffee.com/sascristiav)
+- 💬 **Discord**: [Join Community](https://discord.gg/fhAUFF6d)
+- 👕 **Merch Store**: [VibeMerch](https://vibemerch.printify.me)
+
+https://github.com/user-attachments/assets/897e60e3-5ff2-45cc-a5ed-f09cb6782f2a
+
+---
+
+
+Made with ❤️ by **Cristian Sas**  
+Building AI tools, delivering value, and vibing with the tech community. 🚀  
+Let’s connect, collaborate, or just say hi! 👋
+
+---
