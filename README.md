@@ -1,6 +1,10 @@
 # N8NTemplates
 
 
+![file-000000001ef8620a8ba317d9667650a7](https://github.com/user-attachments/assets/c3bb015b-e5c0-4b62-9ff2-7c3e367361c0)
+
+
+
 150+ Industry-Specific Workflows – A Vault of Automation Systems I’ve Built, Tested, and (Sometimes) Sold. Others? Just Born from Boredom.
 
 What’s Inside This Digital Vault:
